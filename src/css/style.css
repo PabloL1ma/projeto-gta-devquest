@@ -197,20 +197,27 @@ body {
 }
 
 .compre-ja .btn-plataforma .plataformas li:nth-child(1):hover {
-  background-color: #00439c;
+  background-color: #0043;
   border: 1px solid #00439c;
 }
 
 .compre-ja .btn-plataforma .plataformas li:nth-child(2):hover {
-  background-color: #387a26;
+  background-color: rgba(45, 78, 46, 0.667);
+  border:1px solid #387a26;
+  
 }
 
 .compre-ja .btn-plataforma .plataformas li:nth-child(3):hover {
-  background-color: #00439c;
+  background-color: #0043;
+  border: 1px solid #00439c;
 }
 .compre-ja .btn-plataforma .plataformas li:nth-child(4):hover {
-  background-color: #387a26;
+  background-color: rgba(45, 78, 46, 0.667);
+   border:1px solid #387a26;
+
 }
 .compre-ja .btn-plataforma .plataformas li:nth-child(5):hover {
-  background-color: #a51d61;
+  border:1px solid #69173f;
+  background-color: #64394e;
+
 }
